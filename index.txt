@@ -2,3 +2,4 @@
 我现在修改了下，使用 git push origin master 推送到仓库中
 我现在又修改了，使用git push推送到仓库中
 现在可以使用git push 
+使用ssh免密码登录
